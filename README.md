@@ -1,6 +1,6 @@
 # The Basic Network Scanner 
 
-This project is a simple and basic implementation of a network scanner. It is intended for educational purposes and can be beneficial for anyone interested in basic networking or who is looking for a project for their CSE course.
+This project is a simple and basic implementation of a network scanner.  It allows you to scan a target IP address and a range of ports to check if they are open. This enables us to take initiative into dealing with those potential backdoors and making our network security stronger. This project is intended for educational purposes and can be beneficial for anyone interested in basic networking or who is looking for a project for their CSE course.
 
 ## Description
 
